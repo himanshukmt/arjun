@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arjun/static/css/main.c4f489dc.css",
-    "main.js": "/arjun/static/js/main.43e11ea0.js",
+    "main.js": "/arjun/static/js/main.694e0511.js",
     "static/js/787.5315e33b.chunk.js": "/arjun/static/js/787.5315e33b.chunk.js",
     "static/media/bike14.jpeg": "/arjun/static/media/bike14.a5992d78465a48493232.jpeg",
     "static/media/yzf-r15-right-front-three-quarter-7.webp": "/arjun/static/media/yzf-r15-right-front-three-quarter-7.0a4bfb94deea160b1785.webp",
@@ -23,11 +23,11 @@
     "static/media/fgdghgj.jpg": "/arjun/static/media/fgdghgj.88c0677ed3436e62c497.jpg",
     "index.html": "/arjun/index.html",
     "main.c4f489dc.css.map": "/arjun/static/css/main.c4f489dc.css.map",
-    "main.43e11ea0.js.map": "/arjun/static/js/main.43e11ea0.js.map",
+    "main.694e0511.js.map": "/arjun/static/js/main.694e0511.js.map",
     "787.5315e33b.chunk.js.map": "/arjun/static/js/787.5315e33b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4f489dc.css",
-    "static/js/main.43e11ea0.js"
+    "static/js/main.694e0511.js"
   ]
 }
